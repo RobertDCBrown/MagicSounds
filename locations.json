@@ -4,26 +4,75 @@
         "name": "Cinderella Castle",
         "latitude": 28.419411,
         "longitude": -81.581216,
-        "audioURL": "https://example.com/castle-audio.mp3",
         "description": "The iconic Cinderella Castle at the heart of Magic Kingdom.",
-        "audioType": "Background Audio"
+        "audioTracks": [
+            {
+                "id": "castle_ambient",
+                "name": "Castle Ambient Music",
+                "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20King%20Stephans%20Banquet%20Hall%20-%20Area%20Loop.mp3",
+                "audioType": "Background Audio",
+                "artworkURL": "https://example.com/images/castle_ambient.jpg"
+            },
+            {
+                "id": "castle_show",
+                "name": "Castle Stage Show",
+                "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20Stage%20Show.mp3",
+                "audioType": "Show",
+                "artworkURL": "https://example.com/images/castle_show.jpg"
+            }
+        ]
     },
     {
         "id": "space_mountain",
         "name": "Space Mountain",
         "latitude": 28.418611,
         "longitude": -81.577222,
-        "audioURL": "https://example.com/space-mountain-audio.mp3",
         "description": "A thrilling indoor roller coaster in the dark.",
-        "audioType": "Ride Audio"
+        "audioTracks": [
+            {
+                "id": "space_mountain_queue",
+                "name": "Queue Music",
+                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Tomorrowland%20-%20Space%20Mountain%20Ambient%20Queue%20Music.mp3",
+                "audioType": "Background Audio",
+                "artworkURL": "https://example.com/images/space_mountain_queue.jpg"
+            },
+            {
+                "id": "space_mountain_ride",
+                "name": "Ride Audio",
+                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Space%20Mountain%20-%20Ride%20Audio.mp3",
+                "audioType": "Ride Audio",
+                "artworkURL": "https://example.com/images/space_mountain_ride.jpg"
+            }
+        ]
     },
     {
         "id": "haunted_mansion",
         "name": "Haunted Mansion",
         "latitude": 28.419444,
         "longitude": -81.581944,
-        "audioURL": "https://example.com/haunted-mansion-audio.mp3",
         "description": "A spooky ride through a haunted estate.",
-        "audioType": "Show"
+        "audioTracks": [
+            {
+                "id": "haunted_mansion_foyer",
+                "name": "Foyer Music",
+                "audioURL": "http://fluxcap.net/audio/mk/libertysquare/Liberty%20Square%20-%20Haunted%20Mansion%20-%20Foyer%20Music.mp3",
+                "audioType": "Show",
+                "artworkURL": "https://example.com/images/haunted_mansion_foyer.jpg"
+            },
+            {
+                "id": "haunted_mansion_ride",
+                "name": "Ride Audio",
+                "audioURL": "http://fluxcap.net/audio/mk/libertysquare/Haunted%20Mansion%20-%20Ride%20Audio.mp3",
+                "audioType": "Ride Audio",
+                "artworkURL": "https://example.com/images/haunted_mansion_ride.jpg"
+            },
+            {
+                "id": "haunted_mansion_queue",
+                "name": "Queue Music",
+                "audioURL": "http://fluxcap.net/audio/mk/libertysquare/Haunted%20Mansion%20-%20Queue%20Loop.mp3",
+                "audioType": "Background Audio",
+                "artworkURL": "https://example.com/images/haunted_mansion_queue.jpg"
+            }
+        ]
     }
-]
+] 
