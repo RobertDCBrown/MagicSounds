@@ -12,13 +12,6 @@
                 "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20King%20Stephans%20Banquet%20Hall%20-%20Area%20Loop.mp3",
                 "audioType": "Background Audio",
                 "artworkURL": "https://example.com/images/castle_ambient.jpg"
-            },
-            {
-                "id": "castle_show",
-                "name": "Castle Stage Show",
-                "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20Stage%20Show.mp3",
-                "audioType": "Show",
-                "artworkURL": "https://example.com/images/castle_show.jpg"
             }
         ]
     },
@@ -30,18 +23,18 @@
         "description": "A thrilling indoor roller coaster in the dark.",
         "audioTracks": [
             {
-                "id": "space_mountain_queue",
-                "name": "Queue Music",
-                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Tomorrowland%20-%20Space%20Mountain%20Ambient%20Queue%20Music.mp3",
+                "id": "space_mountain_queue_1975",
+                "name": "Queue Music - 1975",
+                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Tomorrowland%20-%20Space%20Mountain%20-%201975%20Queue.mp3",
                 "audioType": "Background Audio",
-                "artworkURL": "https://example.com/images/space_mountain_queue.jpg"
+                "artworkURL": "https://pm1.narvii.com/6520/48ba2093320b2b918d2e52661a73fd052225af38_hq.jpg"
             },
             {
-                "id": "space_mountain_ride",
-                "name": "Ride Audio",
-                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Space%20Mountain%20-%20Ride%20Audio.mp3",
-                "audioType": "Ride Audio",
-                "artworkURL": "https://example.com/images/space_mountain_ride.jpg"
+                "id": "space_mountain_entrance",
+                "name": "Space Mountain Entrance",
+                "audioURL": "http://fluxcap.net/audio/mk/tomorrowland/Tomorrowland%20-%20Space%20Mountain%20Entrance%20Music.mp3",
+                "audioType": "Background Audio",
+                "artworkURL": "https://oladino.com/wp-content/uploads/2023/07/MR-oladinocom-svg120723t062-127202316552-1.jpeg"
             }
         ]
     },
