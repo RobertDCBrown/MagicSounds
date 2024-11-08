@@ -1,0 +1,68 @@
+[
+    {
+        "id": "featured1",
+        "name": "Main Street Memories",
+        "description": "Experience the nostalgic sounds of Main Street U.S.A.",
+        "imageURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/mainstreet.jpg",
+        "tracks": [
+            {
+                "id": "ms1",
+                "name": "Main Street USA Area Loop",
+                "audioURL": "http://fluxcap.net/audio/mk/Main%20Street%20USA/Main%20Street%20USA%20-%20Area%20Loop.mp3",
+                "audioType": "Background Music",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/mainstreet.jpg"
+            },
+            {
+                "id": "ms2",
+                "name": "Main Street Vehicles",
+                "audioURL": "http://fluxcap.net/audio/mk/Main%20Street%20USA/Main%20Street%20USA%20-%20Main%20Street%20Vehicles.mp3",
+                "audioType": "Ambient Sound",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/mainstreet.jpg"
+            }
+        ]
+    },
+    {
+        "id": "featured2",
+        "name": "Castle & Fantasy",
+        "description": "Magical melodies from the heart of the park",
+        "imageURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/castle.jpg",
+        "tracks": [
+            {
+                "id": "castle1",
+                "name": "Cinderella Castle Area Loop",
+                "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20Area%20Loop.mp3",
+                "audioType": "Background Music",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/castle.jpg"
+            },
+            {
+                "id": "castle2",
+                "name": "Castle Forecourt Stage",
+                "audioURL": "http://fluxcap.net/audio/mk/Castle/Cinderella's%20Castle%20-%20Forecourt%20Stage%20Area%20Loop.mp3",
+                "audioType": "Show Music",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/castle.jpg"
+            }
+        ]
+    },
+    {
+        "id": "featured3",
+        "name": "Tomorrowland Soundscape",
+        "description": "Journey to the future with these futuristic tunes",
+        "imageURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/tomorrowland.jpg",
+        "tracks": [
+            {
+                "id": "tl1",
+                "name": "Tomorrowland Area Loop",
+                "audioURL": "http://fluxcap.net/audio/mk/Tomorrowland/Tomorrowland%20-%20Area%20Loop.mp3",
+                "audioType": "Background Music",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/tomorrowland.jpg"
+            },
+            {
+                "id": "tl2",
+                "name": "Space Mountain Queue",
+                "audioURL": "http://fluxcap.net/audio/mk/Tomorrowland/Space%20Mountain%20-%20Queue%20Loop.mp3",
+                "audioType": "Queue Music",
+                "artworkURL": "https://raw.githubusercontent.com/RobertDCBrown/MagicSounds/main/images/tomorrowland.jpg"
+            }
+        ]
+    }
+]
