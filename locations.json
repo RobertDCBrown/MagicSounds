@@ -43,7 +43,7 @@
         "name": "Big Thunder Mountain Railroad",
         "latitude": 28.419957,
         "longitude": -81.584693,
-        "description": "A thrilling runaway train ride through a haunted Old West mining town.",
+        "description": "A thrilling runaway train ride through an Old West mining town.",
         "audioTracks": [
             {
                 "id": "thunder_mountain_area_loop",
