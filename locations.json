@@ -39,6 +39,29 @@
         ]
     },
     {
+        "id": "thunder_mountain",
+        "name": "Big Thunder Mountain Railroad",
+        "latitude": 28.419957,
+        "longitude": -81.584693,
+        "description": "A thrilling runaway train ride through a haunted Old West mining town.",
+        "audioTracks": [
+            {
+                "id": "thunder_mountain_area_loop",
+                "name": "Big Thunder Mountain - Area Loop",
+                "audioURL": "http://fluxcap.net/audio/mk/frontierland/Magic%20Kingdom%20-%20Big%20Thunder%20Mountain%20Railroad%20-%20Area%20Music%20-%20Complete%20Loop.mp3",
+                "audioType": "Background Audio",
+                "artworkURL": "https://live.staticflickr.com/7720/17301985812_cb9703dbfa_b.jpg"
+            },
+            {
+                "id": "thunder_mountain_safety",
+                "name": "Big Thunder Mountain - Safety Spiel",
+                "audioURL": "http://fluxcap.net/audio/mk/frontierland/Magic%20Kingdom%20-%20Big%20Thunder%20Mountain%20Safety%20Spiel.mp3",
+                "audioType": "Ride Audio",
+                "artworkURL": "https://live.staticflickr.com/7720/17301985812_cb9703dbfa_b.jpg"
+            }
+        ]
+    },
+    {
         "id": "haunted_mansion",
         "name": "Haunted Mansion",
         "latitude": 28.419444,
